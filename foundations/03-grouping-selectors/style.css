@@ -1,0 +1,19 @@
+/* 
+black   same font+size+black edge? - black bg - white text
+yellow  same font+size+black edge? yellow bg - black text
+*/
+.black .yellow {
+  text-align: center;
+  font-size: 36px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+} 
+
+.black  {
+color: white;
+background-color: black;
+}
+
+.yellow {
+  color: black;
+  background-color: yellow;
+}
