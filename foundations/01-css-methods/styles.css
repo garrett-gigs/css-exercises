@@ -1,4 +1,7 @@
 /* styles.css */
 div {
   background-color: red;
+  color: white;
+  font-size: 22px;
+  text-align: center;
 }
