@@ -1,0 +1,34 @@
+/* style.css*/
+
+.bg-pink {
+  background-color: #ffa7a7;
+    font-family: verdana, sans-serif;
+  }
+#bg-green {
+  background-color: #80ff80;
+  font-weight: bold;
+}
+.font-deja {
+  font-family: "DejaVu Sans", sans-serif;
+}
+.font-24px {
+  font-size: 24px;
+}
+.font-blue {
+  color: #0000ff;
+}
+
+#big-blue {
+  font-size: 36px;
+  color: #0000ff;
+}
+/* Psuedo code 
+P class  - bg pink AND same font 
+div 1 and div 2 BOLD
+Div 1 Blue #0000ff
+Div 2 bg green #80ff80
+P 2 and Div 1 same font size
+P1 and P 4 same font size
+
+
+*/
