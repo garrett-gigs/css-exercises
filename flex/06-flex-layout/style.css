@@ -7,6 +7,9 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+ul {
+  list-style-type: none;
+}
 img {
   width: 600px;
 }
@@ -24,3 +27,76 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+/* 
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: Roboto, sans-serif;
+ }
+ ul {
+  list-style-type: none;
+}
+
+ .main {
+  display: flex;
+  flex-direction: column;
+  }
+
+.header {
+  display: flex;
+  flex-wrap: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.header .left-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.header .right-links {
+  display: flex;
+  flex-direction: row;
+}
+img {
+  width: 600px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+button {
+  font-family: Roboto, sans-serif;
+  border: none;
+  border-radius: 8px;
+  background: #eee;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: space-between;
+  }
+.footer .left-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer .right-links {  
+  display: flex;
+  flex-direction: row;
+}
+input {
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 8px 24px;
+  width: 400px;
+}
+
+ */
