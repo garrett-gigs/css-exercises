@@ -1,7 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
 }
-
 img {
   width: 100px;
   height: 100px;
@@ -10,9 +9,50 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
+.flower-box {
+  display: flex;
+  gap: 52px;
+  
+}
+
+.flower-box .text-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: flex-start;
+  text-align: center;
+  width: 200px;
+  }
+.flower-box .text-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: flex-start;
+  text-align: center;
+  width: 200px;
+}
+.flower-box .text-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: flex-start;
+  text-align: center;
+  width: 200px;
+}
+.flower-box .text-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: flex-start;
+  text-align: center;
+  width: 200px;
+} 
 /* do not edit this footer */
+
 .footer {
   position: fixed;
   bottom: 0;
